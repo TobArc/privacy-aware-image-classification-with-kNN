@@ -1,5 +1,5 @@
-# ISIB2024: Integrating kNN with Foundation Models for Adaptable and Privacy-Aware Image Classification
-Official code repository for the ISIB 2024 paper: "Integrating kNN with Foundation Models for Adaptable and Privacy-Aware Image Classification"
+# ISBI2024: Integrating kNN with Foundation Models for Adaptable and Privacy-Aware Image Classification
+Official code repository for the ISBI 2024 paper: "Integrating kNN with Foundation Models for Adaptable and Privacy-Aware Image Classification"
 
 ## News:
 - Paper is accepted for IEEE ISIB 2024 🎉
