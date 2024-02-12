@@ -15,6 +15,7 @@ TODO: Add links
 - timm
 - pandas
 - scikit-learn
+- Nakara et al.
 
 # Citation 📖
 If you use our code, please cite our paper:
