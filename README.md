@@ -22,7 +22,7 @@ Traditional deep learning models encode knowledge within their parameters, limit
 - Assessment of method's robustness in continual learning and data removal scenarios
 
 ## Results 📊
-- Improved classification accuracy demonstrated across established benchmark datasets
+### 1. Improved classification accuracy demonstrated across established benchmark datasets
 
 | Accuracy [\%]          | CIFAR-10 | CIFAR-100 | STL-10  |
 |------------------------|----------|-----------|-------- |
@@ -34,7 +34,7 @@ Traditional deep learning models encode knowledge within their parameters, limit
 
 Classification accuracy of our k-NN approach for different backbone choices.
   
-- Applicability of the method to distinct medical image classification tasks confirmed
+### 2. Applicability of the method to distinct medical image classification tasks confirmed
 
 | Accuracy [\%]                          | Pneumonia | Melanoma |
 |----------------------------------------|-----------|----------|
@@ -45,7 +45,7 @@ Classification accuracy of our k-NN approach for different backbone choices.
 
 Comparison of our approach’s strong transfer learning ability for medical image analysis († refers to fully supervised, end-to-end models).
 
-- Robustness in continual learning and data removal scenarios demonstrated
+### 3. Robustness in continual learning and data removal scenarios demonstrated
 
 <p align="middle">
   <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/4ed7a6cd-6079-4377-aac7-3ef031daa7fd" width="350" />
