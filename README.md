@@ -3,9 +3,8 @@ Official code repository for the paper: "Integrating kNN with Foundation Models 
 
 ## News 🎉
 - Paper is accepted for IEEE ISBI 2024 🎉
-- 
 <p align="middle">
-  <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/e95d8c9f-0671-463f-a074-75756175d4a2"/>
+  <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/e95d8c9f-0671-463f-a074-75756175d4a2" width="500" />
 </p>
   
 - Code will be released soon 🛠️🔜
@@ -44,7 +43,7 @@ Classification accuracy of our k-NN approach for different backbone choices.
 | Ours (DINOv2 ViT-B/14)                 | 88.1      | 68.5     |
 | Ours (DINOv2 ViT-L/14)                 | 89.9      | **69.8** |
 
-Comparison of our approach’s strong transfer learning ability for medical image analysis. († refers to fully supervised models, trained end-to-end.)
+Comparison of our approach’s strong transfer learning ability for medical image analysis († refers to fully supervised, end-to-end models).
 
 - Robustness in continual learning and data removal scenarios demonstrated
 
