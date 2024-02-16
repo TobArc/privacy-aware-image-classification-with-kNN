@@ -43,8 +43,13 @@ Table 2: Comparison of our approach’s strong transfer learning ability for med
 
 - Robustness in continual learning and data removal scenarios demonstrated
 
-![experiment7_DINOv2 ViT-L14](https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/4ed7a6cd-6079-4377-aac7-3ef031daa7fd)
-![experiment8_5k_hDINOv2 ViT-L14](https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/2d8a88c0-34ee-4e8b-931f-309acfff26f1)
+<div style="display: inline-block;">
+    ![experiment7_DINOv2 ViT-L14](https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/4ed7a6cd-6079-4377-aac7-3ef031daa7fd)
+</div>
+
+<div style="display: inline-block;">
+    ![experiment8_5k_hDINOv2 ViT-L14](https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/2d8a88c0-34ee-4e8b-931f-309acfff26f1)
+</div>
 
 Figure: Visualization of the method’s ability for diverse continual learning tasks (left: class incremental learning, right: sample incremental learning).
 
