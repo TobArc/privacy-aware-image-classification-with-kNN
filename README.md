@@ -52,27 +52,26 @@ Comparison of our approach’s strong transfer learning ability for medical imag
   <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/2d8a88c0-34ee-4e8b-931f-309acfff26f1" width="350" /> 
 </p>
 
-Visualization of the method’s ability for diverse continual learning tasks (left: class incremental learning, right: sample incremental learning).
+3.1 Visualization of the method’s ability for diverse continual learning tasks (left: class incremental learning, right: sample incremental learning).
 
 <p align="middle">
   <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/83d325c2-bc70-4eb1-ac44-44d670f76edf" width="350" />
   <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/c326c177-270b-4d88-ab0e-31a7d8693fa0" width="350" /> 
 </p>
 
-Illustration of our method’s classification consistency despite the continuous diminishing of the support set (left: Pneumonia, right: Melanoma).
+3.2 Illustration of our method’s classification consistency despite the continuous diminishing of the support set (left: Pneumonia, right: Melanoma).
 
 ## Getting Started 🚀
 To get started with using our method, follow these steps:
 TODO
 
 ## Acknowledgements 👏
-TODO: Add links
-- Chroma
-- pytorch
-- timm
-- pandas
-- scikit-learn
-- Nakara et al.
+- [Chroma](https://www.trychroma.com) (The AI-native open-source embedding database")
+- [PyTorch](https://pytorch.org) 
+- [timm](https://github.com/huggingface/pytorch-image-models) (Ross Wightman - PyTorch Image Models)
+- [pandas](https://pandas.pydata.org)
+- [scikit-learn](https://scikit-learn.org/stable/)
+- Nakata, Kengo, et al. "Revisiting a knn-based image classification system with high-capacity storage." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.
 
 # Citation 📖
 If you find this work useful in your research, please consider citing our paper:
