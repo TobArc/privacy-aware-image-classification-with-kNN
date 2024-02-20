@@ -71,7 +71,9 @@ TODO
 - [timm](https://github.com/huggingface/pytorch-image-models) (Ross Wightman - PyTorch Image Models)
 - [pandas](https://pandas.pydata.org)
 - [scikit-learn](https://scikit-learn.org/stable/)
-- Nakata, Kengo, et al. "Revisiting a knn-based image classification system with high-capacity storage." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022.
+- Nakata, Kengo, et al. "Revisiting a knn-based image classification system with high-capacity storage." European Conference on Computer Vision. Cham: Springer Nature Switzerland, 2022. [doi](https://doi.org/10.1007/978-3-031-19836-6_26)
+
+)
 
 # Citation 📖
 If you find this work useful in your research, please consider citing our paper:
