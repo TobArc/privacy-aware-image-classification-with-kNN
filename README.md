@@ -32,7 +32,7 @@ Traditional deep learning models encode knowledge within their parameters, limit
 | DINOv2 ViT-B/14        | 98.0     | 87.2      | 99.4    |
 | DINOv2 ViT-L/14        | **98.5** | **88.3**  | **99.5**|
 
-Classification accuracy of our k-NN approach for different backbone choices.
+Table 1: Classification accuracy of our k-NN approach for different backbone choices.
   
 ### 2. Applicability of the method to distinct medical image classification tasks confirmed
 
@@ -43,7 +43,7 @@ Classification accuracy of our k-NN approach for different backbone choices.
 | Ours (DINOv2 ViT-B/14)                 | 88.1      | 68.5     |
 | Ours (DINOv2 ViT-L/14)                 | 89.9      | **69.8** |
 
-Comparison of our approach’s strong transfer learning ability for medical image analysis († refers to fully supervised, end-to-end models).
+Table 2: Comparison of our approach’s strong transfer learning ability for medical image analysis († refers to fully supervised, end-to-end models).
 
 ### 3. Robustness in continual learning and data removal scenarios demonstrated
 
@@ -52,14 +52,14 @@ Comparison of our approach’s strong transfer learning ability for medical imag
   <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/2d8a88c0-34ee-4e8b-931f-309acfff26f1" width="350" /> 
 </p>
 
-3.1 Visualization of the method’s ability for diverse continual learning tasks (left: class incremental learning, right: sample incremental learning).
+Figure 1: Visualization of the method’s ability for diverse continual learning tasks (left: class incremental learning, right: sample incremental learning).
 
 <p align="middle">
   <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/83d325c2-bc70-4eb1-ac44-44d670f76edf" width="350" />
   <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/c326c177-270b-4d88-ab0e-31a7d8693fa0" width="350" /> 
 </p>
 
-3.2 Illustration of our method’s classification consistency despite the continuous diminishing of the support set (left: Pneumonia, right: Melanoma).
+Figure 2: Illustration of our method’s classification consistency despite the continuous diminishing of the support set (left: Pneumonia, right: Melanoma).
 
 ## Getting Started 🚀
 To get started with using our method, follow these steps:
