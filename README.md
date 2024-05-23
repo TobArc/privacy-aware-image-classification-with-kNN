@@ -63,8 +63,7 @@ Figure 1: Visualization of the method’s ability for diverse continual learning
 
 Figure 2: Illustration of our method’s classification consistency despite the continuous diminishing of the support set (left: Pneumonia, right: Melanoma).
 
-## Getting Started 🚀
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TobArc/privacy-aware-image-classification-with-kNN/blob/main/)
+## Getting Started 🚀 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TobArc/privacy-aware-image-classification-with-kNN/blob/main/)
 
 To get started with using our method, you can execute the research experiments using Google Colab.
 
