@@ -5,10 +5,12 @@ Official code repository for the paper: "Integrating kNN with Foundation Models 
 - Paper is accepted for IEEE ISBI 2024 🎉
 <p align="middle">
   <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/e95d8c9f-0671-463f-a074-75756175d4a2" width="500" />
-</p>
-  
-- Code will be released soon 🛠️🔜
-  
+</p> 
+
+- Source code has been released 📂
+
+- Experiments are available in Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TobArc/privacy-aware-image-classification-with-kNN/blob/main/)
+
 ## Overview 🧠
 Traditional deep learning models encode knowledge within their parameters, limiting transparency and adaptability to data changes. This poses challenges for addressing user data privacy concerns. To overcome this limitation, we propose to store embeddings of the training data independently of the model weights. This enables dynamic data modifications without retraining. Our approach integrates the k-Nearest Neighbor (k-NN) classifier with a vision-based foundation model pre-trained on natural images in a self-supervised manner. This integration enhances interpretability and adaptability while addressing privacy concerns.
 
@@ -61,9 +63,16 @@ Figure 1: Visualization of the method’s ability for diverse continual learning
 
 Figure 2: Illustration of our method’s classification consistency despite the continuous diminishing of the support set (left: Pneumonia, right: Melanoma).
 
-## Getting Started 🚀
-To get started with using our method, follow these steps:
-TODO
+## Getting Started 🚀 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TobArc/privacy-aware-image-classification-with-kNN/blob/main/)
+
+To get started with using our method, you can execute the research experiments using Google Colab.
+
+If you have access to a capable GPU and want to run the code locally:
+1. Clone this repository to your local machine.
+2. Find the notebooks for the experiments presented in the paper under the "experiments" directory.
+3. Place the extracted [ISIC2018 Task 3](https://challenge.isic-archive.com/data/#2018) and [Pneumonia](https://data.mendeley.com/datasets/rscbjbr9sj/2) (`ChestXRay2017.zip`) datasets inside the `/assets/datasets/` folder.
+4. Each notebook includes comprehensive documentation to explain its usage and application.
+
 
 ## Acknowledgements 👏
 - [Chroma](https://www.trychroma.com) (The AI-native open-source embedding database")
@@ -75,7 +84,7 @@ TODO
 
 # Citation 📖
 If you find this work useful in your research, please consider citing our paper:
-- [Publication](...)
+- [Publication](https://github.com/TobArc/privacy-aware-image-classification-with-kNN/){Link not available yet}
 - [Preprint](https://arxiv.org/abs/2402.12500)
 
 ```
