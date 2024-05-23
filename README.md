@@ -84,7 +84,7 @@ If you have access to a capable GPU and want to run the code locally:
 
 # Citation 📖
 If you find this work useful in your research, please consider citing our paper:
-- [Publication](...)
+- [Publication](https://github.com/TobArc/privacy-aware-image-classification-with-kNN/){Link not available yet}
 - [Preprint](https://arxiv.org/abs/2402.12500)
 
 ```
