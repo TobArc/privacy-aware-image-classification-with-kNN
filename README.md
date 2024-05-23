@@ -70,7 +70,7 @@ To get started with using our method, you can execute the research experiments u
 If you have access to a capable GPU and want to run the code locally:
 1. Clone this repository to your local machine.
 2. Find the notebooks for the experiments presented in the paper under the "experiments" directory.
-3. Place the extracted [ISIC2018 Task 3](https://challenge.isic-archive.com/data/#2018) and [Pneumonia](https://data.mendeley.com/f4cf90ba-61ae-479e-a53e-303ed8dbcd61) datasets inside the '/assets/datasets/' folder.
+3. Place the extracted [ISIC2018 Task 3](https://challenge.isic-archive.com/data/#2018) and [Pneumonia](https://data.mendeley.com/datasets/rscbjbr9sj/2) datasets inside the '/assets/datasets/' folder.
 4. Each notebook includes comprehensive documentation to explain its usage and application.
 
 
