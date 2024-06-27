@@ -16,6 +16,8 @@ Traditional deep learning models encode knowledge within their parameters, limit
 
 ![method_300dpi](https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/07f80739-62ab-4285-bf02-aa8b800dba8b)
 
+![system_anim](https://github.com/TobArc/privacy-aware-image-classification-with-kNN/assets/98497332/be555103-d9df-4856-8a46-acdd265da06b)
+
 ## Key Features 🔑
 - Open-source implementation including a previously unpublished baseline method and performance-improving contributions
 - Integration of k-NN classifier with recent vision-based foundation models
