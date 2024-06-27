@@ -14,9 +14,7 @@ Official code repository for the paper: "Integrating kNN with Foundation Models 
 ## Overview 🧠
 Traditional deep learning models encode knowledge within their parameters, limiting transparency and adaptability to data changes. This poses challenges for addressing user data privacy concerns. To overcome this limitation, we propose to store embeddings of the training data independently of the model weights. This enables dynamic data modifications without retraining. Our approach integrates the k-Nearest Neighbor (k-NN) classifier with a vision-based foundation model pre-trained on natural images in a self-supervised manner. This integration enhances interpretability and adaptability while addressing privacy concerns.
 
-![method_300dpi](https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/07f80739-62ab-4285-bf02-aa8b800dba8b)
-
-![system_anim](https://github.com/TobArc/privacy-aware-image-classification-with-kNN/assets/98497332/be555103-d9df-4856-8a46-acdd265da06b)
+![system_anim](https://github.com/TobArc/privacy-aware-image-classification-with-kNN/assets/98497332/2fc03eab-cee0-46f8-bf63-147d71867d01)
 
 ## Key Features 🔑
 - Open-source implementation including a previously unpublished baseline method and performance-improving contributions
