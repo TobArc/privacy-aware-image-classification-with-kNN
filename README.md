@@ -16,6 +16,8 @@ Traditional deep learning models encode knowledge within their parameters, limit
 
 ![system_anim](https://github.com/TobArc/privacy-aware-image-classification-with-kNN/assets/98497332/2fc03eab-cee0-46f8-bf63-147d71867d01)
 
+Figure 1: During pretraining 1), the image encoder is trained to extract representative features. The knowledge-storing phase 2) utilizes the pre-trained (now frozen) encoder to extract and store task-relevant knowledge from the training data. During inference 3), that knowledge allows the classification of query images through majority voting on the top-k similar embeddings.
+
 ## Key Features 🔑
 - Open-source implementation including a previously unpublished baseline method and performance-improving contributions
 - Integration of k-NN classifier with recent vision-based foundation models
@@ -54,14 +56,14 @@ Table 2: Comparison of our approach’s strong transfer learning ability for med
   <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/2d8a88c0-34ee-4e8b-931f-309acfff26f1" width="350" /> 
 </p>
 
-Figure 1: Visualization of the method’s ability for diverse continual learning tasks (left: class incremental learning, right: sample incremental learning).
+Figure 2: Visualization of the method’s ability for diverse continual learning tasks (left: class incremental learning, right: sample incremental learning).
 
 <p align="middle">
   <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/83d325c2-bc70-4eb1-ac44-44d670f76edf" width="350" />
   <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/c326c177-270b-4d88-ab0e-31a7d8693fa0" width="350" /> 
 </p>
 
-Figure 2: Illustration of our method’s classification consistency despite the continuous diminishing of the support set (left: Pneumonia, right: Melanoma).
+Figure 3: Illustration of our method’s classification consistency despite the continuous diminishing of the support set (left: Pneumonia, right: Melanoma).
 
 ## Getting Started 🚀 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TobArc/privacy-aware-image-classification-with-kNN/blob/main/)
 
