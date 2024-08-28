@@ -4,7 +4,7 @@ Official code repository for the paper: "Integrating kNN with Foundation Models 
 ## News 🎉
 - Paper is accepted for IEEE ISBI 2024 🎉
 <p align="middle">
-  <img src="https://github.com/TobArc/ISBI2024_knn-image-classification/assets/98497332/e95d8c9f-0671-463f-a074-75756175d4a2" width="500" />
+  <img src="https://github.com/user-attachments/assets/c7883a56-cbb9-409d-93ea-e581e044c697" width="950" />
 </p> 
 
 - Source code has been released 📂
