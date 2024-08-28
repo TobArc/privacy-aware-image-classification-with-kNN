@@ -86,14 +86,17 @@ If you have access to a capable GPU and want to run the code locally:
 
 # Citation 📖
 If you find this work useful in your research, please consider citing our paper:
-- [Publication](https://github.com/TobArc/privacy-aware-image-classification-with-kNN/){Link not available yet}
+- [Publication](https://ieeexplore.ieee.org/document/10635560)
 - [Preprint](https://arxiv.org/abs/2402.12500)
 
 ```
 @InProceedings{doerricharchut2024kNNIntegration,
-   author="Doerrich, Sebastian and Archut, Tobias and Di Salvo, Francesco and Ledig, Christian",
-   title="Integrating kNN with Foundation Models for Adaptable and Privacy-Aware Image Classification",
-   booktitle="2024 IEEE 21th International Symposium on Biomedical Imaging (ISBI)",
-   year="2024",
+  author={Doerrich, Sebastian and Archut, Tobias and Salvo, Francesco Di and Ledig, Christian},
+  booktitle={2024 IEEE International Symposium on Biomedical Imaging (ISBI)}, 
+  title={Integrating kNN with Foundation Models for Adaptable and Privacy-Aware Image Classification}, 
+  year={2024},
+  pages={1-5},
+  keywords={Adaptation models;Data privacy;Source coding;Training data;Nearest neighbor methods;Data models;Robustness;k-NN classifier;continual learning;transfer learning;few-shot classification;explainability},
+  doi={10.1109/ISBI56570.2024.10635560}
 }
 ```
